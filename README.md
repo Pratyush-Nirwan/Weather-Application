@@ -40,5 +40,5 @@ Install the required dependencies using the following command:
     ```
 ## Contributors
 - [Pratyush Nirwan](https://github.com/pratyush-nirwan)
-- [Kaustubh Tembhe](https://github.com/kasutubh-tembhe)
+- [Kaustubh Tembhe](https://github.com/Kaustubh-Tembhe)
         
