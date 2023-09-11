@@ -7,7 +7,7 @@ A simple Python script that fetches and displays weather information for a given
 - [Usage](#usage)
 - [How to Run](#how-to-run)
 - [Dependencies](#dependencies)
-- [License](#license)
+- [Contributors](#contributors)
 
 ## Features
 - Retrieves and displays current temperature, weather description, humidity, wind speed, and pressure.
